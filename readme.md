@@ -1,12 +1,12 @@
-# GanttDebugger - Advanced Performance Monitoring Tool
+# GanttDebugger - Performance Monitoring Tool
 
-A comprehensive debugging and performance analysis tool for Gantt chart libraries that provides detailed execution statistics, performance metrics, and optimization insights.
+A comprehensive debugging and performance analysis tool for DHTMLX Gantt chart libraries that provides detailed execution statistics, performance metrics, and optimization insights.
 
 **Source Code:** `react_client/src/assets/gantt/debugger.js`
 
 ## 🚀 Features
 
-- **Advanced Function Wrapping**: Automatically wraps all Gantt chart functions with performance monitoring
+- **Function Wrapping**: Automatically wraps all Gantt chart functions with performance monitoring
 - **Detailed Statistics**: Comprehensive metrics including execution time, call frequency, memory usage, and error tracking
 - **Performance Analysis**: Percentile calculations, standard deviation, and efficiency metrics
 - **Hotspot Detection**: Identifies performance bottlenecks and optimization opportunities
