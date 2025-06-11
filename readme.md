@@ -63,8 +63,10 @@ const hotspots = debugger.getHotspots();
 const debugger = new GanttDebugger(gantt);
 
 // Do some operations that might be slow
-gantt.parse(largeDataSet);
-gantt.render();
+// click stuff
+// reorder
+// create
+// etc.
 
 // Check what's taking time
 debugger.getHotspots();
