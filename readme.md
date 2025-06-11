@@ -18,7 +18,7 @@ A comprehensive debugging and performance analysis tool for DHTMLX Gantt chart l
 ## 🖥️ Using in Browser Console (Quick Start)
 
 ### Step 1: Copy the Code
-Copy the entire GanttDebugger class from `react_client/src/assets/gantt/debugger.js`.
+Copy the entire GanttDebugger class from `debugger.js`.
 
 ### Step 2: Open Developer Tools
 - **Chrome/Edge**: Press `F12` or `Ctrl+Shift+I` (Windows/Linux) / `Cmd+Option+I` (Mac)
