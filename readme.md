@@ -2,7 +2,7 @@
 
 A comprehensive debugging and performance analysis tool for DHTMLX Gantt chart libraries that provides detailed execution statistics, performance metrics, and optimization insights.
 
-**Source Code:** `react_client/src/assets/gantt/debugger.js`
+**Source Code:** `debugger.js`
 
 ## 🚀 Features
 
